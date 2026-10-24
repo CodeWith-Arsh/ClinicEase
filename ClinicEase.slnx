@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ClinicEase.API/ClinicEase.API.csproj" />
+    <Project Path="src/ClinicEase.Application/ClinicEase.Application.csproj" />
+    <Project Path="src/ClinicEase.Domain/ClinicEase.Domain.csproj" />
+    <Project Path="src/ClinicEase.Infrastructure/ClinicEase.Infrastructure.csproj" />
+  </Folder>
+</Solution>
